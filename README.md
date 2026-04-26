@@ -35,10 +35,9 @@ My work focuses on the technical discipline required to maintain a 100% independ
 
 | Category | Tools |
 | :--- | :--- |
-| **Audio Production** | FL Studio 11, Logic Pro |
+| **Audio Production** | FL Studio, Logic Pro 11 |
 | **Visual Documentation** | Sony α6700, Meta Glasses |
 | **Brand Identity** | Industrial Aesthetics / #ff4400 (High-Vis Orange) |
-| **Identifiers** | ISNI, ORCID, Wikidata, MusicBrainz |
 
 ---
 
