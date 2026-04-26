@@ -1,6 +1,6 @@
 # SNVRKOTICS LLC // RESEARCH & DEVELOPMENT
 ## CALEB GOTTFRIED (SNVRK)
-### [ISNI: 0000 0000 5025 8011](https://isni.org) | [ORCID: 0009-0004-9276-8848](https://orcid.org)
+### [ISNI: 0000 0005 2449 3943]([https://isni.org/isni/0000000524493943]) | [ORCID: 0009-0000-1948-412X]([https://orcid.org/0009-0000-1948-412X])
 
 Experimental artist, producer, and researcher bridging the gap between **cognitive linguistics** and **independent music infrastructure**. As CEO of **SNVRKOTICS LLC**, I build systems that prioritize metadata integrity, institutional authority, and absolute ownership of masters.
 
