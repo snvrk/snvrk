@@ -49,3 +49,5 @@ My work focuses on the technical discipline required to maintain a 100% independ
 I am currently independent, utilizing non-contractual support from **AWGE/A$AP Mob** to leverage A-list trust while maintaining 100% executive control. 
 
 **Press Conference:** July 19, 2026 | NYC City Hall Steps | 3:30 PM – 5:30 PM
+
+Let's Connect: https://www.linkedin.com/in/snvrk
